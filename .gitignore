@@ -1,0 +1,11 @@
+data
+data_ml2
+data_ml1
+corpus
+model
+output
+notebooks
+.idea
+.sagemaker-code-config
+*.swp
+.ipynb_checkpoints
